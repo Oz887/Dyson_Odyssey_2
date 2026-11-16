@@ -1,0 +1,8 @@
+{
+  "name": "Solar Odyssey",
+  "description": "An interactive 16-bit pixel-art educational space survival game teaching kids how NASA keeps astronauts alive beyond Earth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
